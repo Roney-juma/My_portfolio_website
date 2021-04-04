@@ -39,16 +39,52 @@ nav a:hover{
     margin-right: 10px;
 
 }
+.hding{
+    text-align: center;
+    padding-top: 50px;
+    font-style: inherit;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: 1em;
+    color: white;
+}
+.hding h2{
+    color: lemonchiffon;
+}
+.major{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 100px 0 100px;
+    padding-top: 100px;
+    justify-content: center;
+}
+.bike{
+    float: right;
+}
+.paragraph{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 30px;
+    font-size: larger;
+}
+.skill span{
+    padding-left: 150px;
+    padding-right: 30px;
+}
+.skill progress{
+    width: 300px;
+}
 footer{
     display: flex;
     flex-direction: row;
     height: 100px;
     width: 100%;
-    margin-top: 200px;
+    /* margin-top: 200px; */
     border-radius: 5px;
     margin-left: 0;
     margin-bottom: 0px;
-    padding-top: 200px;
+    padding-top: 150px; 
     align-items: center;
     justify-content: center;
 }
