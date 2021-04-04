@@ -38,6 +38,11 @@ nav a:hover{
     margin-right: 10px;
 
 }
+.about-section{
+    display: flex;
+    flex-direction: row;
+    
+}
 
 footer{
     display: flex;
