@@ -55,7 +55,7 @@ nav a:hover{
     flex-direction: row;
     align-items: center;
     margin: 0 100px 0 100px;
-    padding-top: 100px;
+    padding-top: 70px;
     justify-content: center;
 }
 .bike{
@@ -67,6 +67,15 @@ nav a:hover{
     justify-content: center;
     padding-left: 30px;
     font-size: larger;
+}
+.paragraph h2{
+    color: lemonchiffon;
+}
+.skill{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 150px;
 }
 .skill span{
     padding-left: 150px;
