@@ -1,3 +1,6 @@
+*{
+    text-decoration: none;
+}
 .boby{
     background-color: black;
     width: 70%;
@@ -55,7 +58,7 @@ nav a:hover{
     flex-direction: row;
     align-items: center;
     padding-left: 300px;
-    padding-top: 170px;
+    padding-top: 130px;
     padding-right: 100px;
 }
 .about-section-text{
@@ -76,7 +79,7 @@ button{
     cursor: pointer;
 }
 button:hover{
-    background-color: burlywood;
+    background-color: lemonchiffon;
     color: white;
 }
 
@@ -92,4 +95,5 @@ footer{
     padding-top: 200px;
     align-items: center;
     justify-content: center;
+    padding-right: 20px;
 }
