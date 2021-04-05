@@ -5,6 +5,7 @@
     align-items: center;
     margin: auto;
     color: white;
+    text-decoration: none;
 }
 nav ul{
     display: inline;
@@ -62,6 +63,21 @@ nav a:hover{
 }
 .about-section-text span{
     font-size: 3rem;
+}
+button{
+    text-decoration: none;
+    width: 250px;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(31, 245, 31);
+    border-style: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+button:hover{
+    background-color: burlywood;
+    color: white;
 }
 
 footer{
