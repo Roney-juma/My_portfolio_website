@@ -60,10 +60,10 @@ nav a:hover{
     color: lemonchiffon;
 }
 .projects{
-    display: grid;
+    display: flex;
     grid-auto-rows: max-content;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     text-align: justify;
     font-size: 20px;
 }
